@@ -1,3 +1,3 @@
-# apsmods.html
+# APSMODS.html
 💎
-https://sew01ravidumanoj01kingandqueen.github.io/sewqueen2.html/
+https://github.com/APS-NK-MODS/My-web-/blob/sewqueen/index.html
